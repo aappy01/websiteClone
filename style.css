@@ -305,6 +305,7 @@ header{
   }
   .head{
     width: 92%;
+    height: 40px;
     margin: 5% auto;
     padding: 0px;
     left: -3px;
