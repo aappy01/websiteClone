@@ -1,7 +1,7 @@
 # websiteClone
-## A website clone of lms.terrahq.co also know as Side Hustle, this is a beginner's project.
+## A website clone of lms.terrahq.co also known as Side Hustle, this is a beginner's project.
 
-compare and BOTH landing page, and you can hardly, tell the difference. lol
+-------Compare and BOTH landing page, and you can hardly, tell the difference. lol---------
 
 p.s: This was a group task for my first week of bootcamp at TerraHq.
 
